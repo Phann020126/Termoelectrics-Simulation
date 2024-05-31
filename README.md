@@ -1,1 +1,1 @@
-# Simulaci-n-Termoel-ctricas
+# Termoeléctricas
